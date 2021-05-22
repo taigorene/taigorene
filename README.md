@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Taígo Soares :br: <br>
+# Hi there 👋, I'm Taígo Soares <br>
 
 
 [![Linkedin: taigo](https://img.shields.io/badge/-taigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taigo/)](https://www.linkedin.com/in/taigo/) &nbsp;
