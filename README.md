@@ -9,6 +9,7 @@
 
 ## About me:
 
+- :earth_americas: I'm from Brazil, Sao Paulo!
 - 🔭 I’m currently working as SE Manager at [VitaIT](http://www.vitait.com)
 - :computer: I'm accually a DC, Cloud and Network Specialist! [Some Cisco Badges!](https://www.credly.com/users/taigo-soares/badges)
 - 🌱 And I also part of [EccoDX](https://eccodx.com) initiative!
