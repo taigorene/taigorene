@@ -22,7 +22,7 @@
 |         |            |   |
 | :-------------: |:-------------:| :-------------:|
 | <img src="./img/python-original.svg" width="48" height="48" alt="Python" />      | <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /> | <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" /> |
-| <img src="./img/kubernetes-icon-color.svg" width="48" height="48" alt="K8s" />      | <img src="./img/grafana_icon.svg" width="48" height="48" alt="Grafana" />      |   <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /> |
+| <img src="./img/kubernetes-icon-color.svg" width="48" height="48" alt="K8s" />      | <img src="./img/grafana_icon.svg" width="48" height="48" alt="Grafana" />      |   <img src="./img/terraformio-icon.svg" width="48" height="48" alt="Terraform" /> |
 | <img src="./img/linux-tux.svg" width="48" height="48" alt="Linux" /> | <img src="./img/git-original.svg" width="48" height="48" alt="Git" />      |    <img src="./img/Devops-toolchain.svg" width="48" height="48" alt="DevOps" /> |
 
 <br><br>
