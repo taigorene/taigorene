@@ -15,7 +15,7 @@
 - :wheel_of_dharma: I'm a [CKA](https://www.credly.com/badges/a3f67ac3-5506-454d-bb63-56a6c47b4856/public_url) and I'm always studying IaaC, CICD, DevOps and automation solutions!
 - 🌱 And I also part of [EccoDX](https://eccodx.com) initiative!
 - 👯 I’m looking to collaborate on CI/CD and DevOps studies
-- ⚡ Fun fact: I do coding like a Hobby :wink: :beer:!
+- ⚡ Fun fact: I do coding as a Hobby :wink: :beer:!
 <br><br>
 
 ### Things I like to use:
